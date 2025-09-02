@@ -17,13 +17,13 @@ The AI plays optimally against a human player by pruning unnecessary moves, ensu
 ## How to Play  
 1. Clone this repository:  
    ```bash
-   git clone https://github.com/your-username/tic-tac-toe-alphabeta.git
+   git clone https://github.com/GhalibAbdullah/Tic-Tac-Toe.git
    cd tic-tac-toe-alphabeta
    ```
 
 2. Run the game:  
    ```bash
-   python3 tictactoe.py
+   python3 model.py
    ```
 
 3. Enter a position (1–9) when prompted.  
